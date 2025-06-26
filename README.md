@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sat Paing Oo</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 I’m currently working on [Axtra](https://axtrapos.com/)
+- 🔭 I’m currently working on <a href="https://axtrapos.com" target="_blank">Axtra</a>
 
 - 📫 How to reach me **satpaingoo777@gmail.com**
 
